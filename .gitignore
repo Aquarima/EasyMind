@@ -1,0 +1,23 @@
+# project
+/EasyMindCore/src/main/resources/auto-generated/
+*.properties
+/resources/
+
+# gradle
+/build/
+/.gradle/
+/out/
+gradle.properties
+
+# eclipse files
+.classpath
+.project
+.settings/
+/bin/
+
+# intellij files
+/.idea/
+*.iml
+*.ipr
+*.iws
+*.xml

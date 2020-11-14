@@ -1,0 +1,5 @@
+rootProject.name = 'EasyMind'
+include 'EasyMindAPI'
+include 'EasyMindCore'
+include 'EasyMindUI'
+
